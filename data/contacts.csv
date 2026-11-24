@@ -1,0 +1,12 @@
+contact_id,name,email,group,company
+C001,Asha Verma,asha.verma@example.com,Students,Python Batch 12
+C002,Rohan Mehta,rohan.mehta@example.com,Students,Python Batch 12
+C003,Priya Nair,priya.nair@example.com,Students,Python Batch 12
+C004,Vikram Singh,vikram.singh@example.com,Sales,Acme Traders
+C005,Neha Kapoor,neha.kapoor@example.com,Sales,Bright Solutions
+C006,Imran Khan,imran.khan@example.com,Sales,Orbit Retail
+C007,Sara Thomas,sara.thomas@example.com,HR,Internal
+C008,Karan Joshi,karan.joshi@example.com,HR,Internal
+C009,Meera Iyer,meera.iyer@example.com,Operations,Internal
+C010,Arjun Reddy,arjun.reddy@example.com,Operations,Internal
+C011,Test Invalid,invalid-email.example.com,Operations,Internal

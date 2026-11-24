@@ -1,0 +1,17 @@
+2026-11-23 12:31:31 | INFO     | [dry-run] 5 reminder(s) due as of 2026-11-23 12:31
+2026-11-23 12:31:31 | INFO     | DRY_RUN R001 -> asha.verma@example.com | Reminder: Python Automation Webinar starts soon
+2026-11-23 12:31:31 | INFO     | DRY_RUN R001 -> rohan.mehta@example.com | Reminder: Python Automation Webinar starts soon
+2026-11-23 12:31:31 | INFO     | DRY_RUN R001 -> priya.nair@example.com | Reminder: Python Automation Webinar starts soon
+2026-11-23 12:31:31 | INFO     | DRY_RUN R002 -> vikram.singh@example.com | Payment reminder: Invoice INV-2026-014
+2026-11-23 12:31:31 | INFO     | DRY_RUN R002 -> neha.kapoor@example.com | Payment reminder: Invoice INV-2026-014
+2026-11-23 12:31:31 | INFO     | DRY_RUN R002 -> imran.khan@example.com | Payment reminder: Invoice INV-2026-014
+2026-11-23 12:31:31 | INFO     | DRY_RUN R003 -> meera.iyer@example.com | Meeting alert: Weekly Ops Review
+2026-11-23 12:31:31 | INFO     | DRY_RUN R003 -> arjun.reddy@example.com | Meeting alert: Weekly Ops Review
+2026-11-23 12:31:31 | ERROR    | FAILED  R003 -> invalid-email.example.com (invalid email address)
+2026-11-23 12:31:31 | INFO     | DRY_RUN R004 -> sara.thomas@example.com | Task assigned: Update onboarding checklist
+2026-11-23 12:31:31 | INFO     | DRY_RUN R004 -> karan.joshi@example.com | Task assigned: Update onboarding checklist
+2026-11-23 12:31:31 | INFO     | DRY_RUN R005 -> asha.verma@example.com | Starting in 1 hour: Python Automation Webinar
+2026-11-23 12:31:31 | INFO     | DRY_RUN R005 -> rohan.mehta@example.com | Starting in 1 hour: Python Automation Webinar
+2026-11-23 12:31:31 | INFO     | DRY_RUN R005 -> priya.nair@example.com | Starting in 1 hour: Python Automation Webinar
+2026-11-23 12:31:31 | INFO     | Rendered email preview saved: outputs/dry_run_preview.txt
+2026-11-23 12:31:31 | INFO     | Report saved: outputs/email_report_20261123_123131.csv

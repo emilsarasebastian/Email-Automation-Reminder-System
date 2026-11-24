@@ -1,0 +1,13 @@
+Hi {name},
+
+Meeting alert:
+
+  Meeting : {event_name}
+  Date    : {event_date}
+  Time    : {event_time}
+  Link    : {link}
+
+Please be on time and keep your updates ready.
+
+Thanks,
+{sender_name}

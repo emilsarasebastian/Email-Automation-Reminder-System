@@ -1,0 +1,17 @@
+# Secrets - never upload
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Runtime state (real send history can contain real email addresses)
+outputs/send_history.csv
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

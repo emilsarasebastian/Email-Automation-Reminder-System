@@ -1,0 +1,277 @@
+From: Automation Team <noreply@example.com>
+To: Asha Verma <asha.verma@example.com>
+Subject: Reminder: Python Automation Webinar starts soon
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hello Asha Verma,
+
+This is a friendly reminder about our upcoming session:
+
+  Event : Python Automation Webinar
+  Date  : 2026-11-24
+  Time  : 11:00 AM IST
+  Join  : https://example.com/webinar
+
+Please join a few minutes early so we can start on time.
+
+Regards,
+Automation Team
+
+============================================================
+From: Automation Team <noreply@example.com>
+To: Rohan Mehta <rohan.mehta@example.com>
+Subject: Reminder: Python Automation Webinar starts soon
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hello Rohan Mehta,
+
+This is a friendly reminder about our upcoming session:
+
+  Event : Python Automation Webinar
+  Date  : 2026-11-24
+  Time  : 11:00 AM IST
+  Join  : https://example.com/webinar
+
+Please join a few minutes early so we can start on time.
+
+Regards,
+Automation Team
+
+============================================================
+From: Automation Team <noreply@example.com>
+To: Priya Nair <priya.nair@example.com>
+Subject: Reminder: Python Automation Webinar starts soon
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hello Priya Nair,
+
+This is a friendly reminder about our upcoming session:
+
+  Event : Python Automation Webinar
+  Date  : 2026-11-24
+  Time  : 11:00 AM IST
+  Join  : https://example.com/webinar
+
+Please join a few minutes early so we can start on time.
+
+Regards,
+Automation Team
+
+============================================================
+From: Automation Team <noreply@example.com>
+To: Vikram Singh <vikram.singh@example.com>
+Subject: Payment reminder: Invoice INV-2026-014
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Dear Vikram Singh,
+
+This is a gentle reminder that the following payment is due:
+
+  Invoice : INV-2026-014
+  Amount  : INR 12,500
+  Due date: 2026-11-26
+
+If you have already paid, please ignore this message.
+
+Thank you,
+Automation Team
+
+============================================================
+From: Automation Team <noreply@example.com>
+To: Neha Kapoor <neha.kapoor@example.com>
+Subject: Payment reminder: Invoice INV-2026-014
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Dear Neha Kapoor,
+
+This is a gentle reminder that the following payment is due:
+
+  Invoice : INV-2026-014
+  Amount  : INR 12,500
+  Due date: 2026-11-26
+
+If you have already paid, please ignore this message.
+
+Thank you,
+Automation Team
+
+============================================================
+From: Automation Team <noreply@example.com>
+To: Imran Khan <imran.khan@example.com>
+Subject: Payment reminder: Invoice INV-2026-014
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Dear Imran Khan,
+
+This is a gentle reminder that the following payment is due:
+
+  Invoice : INV-2026-014
+  Amount  : INR 12,500
+  Due date: 2026-11-26
+
+If you have already paid, please ignore this message.
+
+Thank you,
+Automation Team
+
+============================================================
+From: Automation Team <noreply@example.com>
+To: Meera Iyer <meera.iyer@example.com>
+Subject: Meeting alert: Weekly Ops Review
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hi Meera Iyer,
+
+Meeting alert:
+
+  Meeting : Weekly Ops Review
+  Date    : 2026-11-24
+  Time    : 10:00 AM IST
+  Link    : https://example.com/ops-meet
+
+Please be on time and keep your updates ready.
+
+Thanks,
+Automation Team
+
+============================================================
+From: Automation Team <noreply@example.com>
+To: Arjun Reddy <arjun.reddy@example.com>
+Subject: Meeting alert: Weekly Ops Review
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hi Arjun Reddy,
+
+Meeting alert:
+
+  Meeting : Weekly Ops Review
+  Date    : 2026-11-24
+  Time    : 10:00 AM IST
+  Link    : https://example.com/ops-meet
+
+Please be on time and keep your updates ready.
+
+Thanks,
+Automation Team
+
+============================================================
+From: Automation Team <noreply@example.com>
+To: Sara Thomas <sara.thomas@example.com>
+Subject: Task assigned: Update onboarding checklist
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hi Sara Thomas,
+
+A new task has been assigned to you:
+
+  Task     : Update onboarding checklist
+  Deadline : 2026-11-27
+
+Please update the status once it is complete.
+
+Regards,
+Automation Team
+
+============================================================
+From: Automation Team <noreply@example.com>
+To: Karan Joshi <karan.joshi@example.com>
+Subject: Task assigned: Update onboarding checklist
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hi Karan Joshi,
+
+A new task has been assigned to you:
+
+  Task     : Update onboarding checklist
+  Deadline : 2026-11-27
+
+Please update the status once it is complete.
+
+Regards,
+Automation Team
+
+============================================================
+From: Automation Team <noreply@example.com>
+To: Asha Verma <asha.verma@example.com>
+Subject: Starting in 1 hour: Python Automation Webinar
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hello Asha Verma,
+
+This is a friendly reminder about our upcoming session:
+
+  Event : Python Automation Webinar
+  Date  : 2026-11-24
+  Time  : 11:00 AM IST
+  Join  : https://example.com/webinar
+
+Please join a few minutes early so we can start on time.
+
+Regards,
+Automation Team
+
+============================================================
+From: Automation Team <noreply@example.com>
+To: Rohan Mehta <rohan.mehta@example.com>
+Subject: Starting in 1 hour: Python Automation Webinar
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hello Rohan Mehta,
+
+This is a friendly reminder about our upcoming session:
+
+  Event : Python Automation Webinar
+  Date  : 2026-11-24
+  Time  : 11:00 AM IST
+  Join  : https://example.com/webinar
+
+Please join a few minutes early so we can start on time.
+
+Regards,
+Automation Team
+
+============================================================
+From: Automation Team <noreply@example.com>
+To: Priya Nair <priya.nair@example.com>
+Subject: Starting in 1 hour: Python Automation Webinar
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hello Priya Nair,
+
+This is a friendly reminder about our upcoming session:
+
+  Event : Python Automation Webinar
+  Date  : 2026-11-24
+  Time  : 11:00 AM IST
+  Join  : https://example.com/webinar
+
+Please join a few minutes early so we can start on time.
+
+Regards,
+Automation Team

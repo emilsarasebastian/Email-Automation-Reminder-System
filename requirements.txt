@@ -1,0 +1,5 @@
+pandas>=2.0
+python-dotenv>=1.0
+schedule>=1.2
+# Optional dashboard (not required to run the project)
+# streamlit>=1.30

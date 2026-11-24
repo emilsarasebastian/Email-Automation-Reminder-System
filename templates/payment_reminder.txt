@@ -1,0 +1,12 @@
+Dear {name},
+
+This is a gentle reminder that the following payment is due:
+
+  Invoice : {invoice_no}
+  Amount  : {amount}
+  Due date: {due_date}
+
+If you have already paid, please ignore this message.
+
+Thank you,
+{sender_name}

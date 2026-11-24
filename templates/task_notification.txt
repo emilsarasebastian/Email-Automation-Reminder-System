@@ -1,0 +1,11 @@
+Hi {name},
+
+A new task has been assigned to you:
+
+  Task     : {task_name}
+  Deadline : {task_deadline}
+
+Please update the status once it is complete.
+
+Regards,
+{sender_name}

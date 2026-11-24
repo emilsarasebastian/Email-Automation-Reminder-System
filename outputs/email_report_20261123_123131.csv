@@ -1,0 +1,15 @@
+timestamp,reminder_id,contact_id,name,email,subject,mode,status,error
+2026-11-23 12:31:31,R001,C001,Asha Verma,asha.verma@example.com,Reminder: Python Automation Webinar starts soon,dry-run,DRY_RUN,
+2026-11-23 12:31:31,R001,C002,Rohan Mehta,rohan.mehta@example.com,Reminder: Python Automation Webinar starts soon,dry-run,DRY_RUN,
+2026-11-23 12:31:31,R001,C003,Priya Nair,priya.nair@example.com,Reminder: Python Automation Webinar starts soon,dry-run,DRY_RUN,
+2026-11-23 12:31:31,R002,C004,Vikram Singh,vikram.singh@example.com,Payment reminder: Invoice INV-2026-014,dry-run,DRY_RUN,
+2026-11-23 12:31:31,R002,C005,Neha Kapoor,neha.kapoor@example.com,Payment reminder: Invoice INV-2026-014,dry-run,DRY_RUN,
+2026-11-23 12:31:31,R002,C006,Imran Khan,imran.khan@example.com,Payment reminder: Invoice INV-2026-014,dry-run,DRY_RUN,
+2026-11-23 12:31:31,R003,C009,Meera Iyer,meera.iyer@example.com,Meeting alert: Weekly Ops Review,dry-run,DRY_RUN,
+2026-11-23 12:31:31,R003,C010,Arjun Reddy,arjun.reddy@example.com,Meeting alert: Weekly Ops Review,dry-run,DRY_RUN,
+2026-11-23 12:31:31,R003,C011,Test Invalid,invalid-email.example.com,Meeting alert: Weekly Ops Review,dry-run,FAILED,Invalid email address
+2026-11-23 12:31:31,R004,C007,Sara Thomas,sara.thomas@example.com,Task assigned: Update onboarding checklist,dry-run,DRY_RUN,
+2026-11-23 12:31:31,R004,C008,Karan Joshi,karan.joshi@example.com,Task assigned: Update onboarding checklist,dry-run,DRY_RUN,
+2026-11-23 12:31:31,R005,C001,Asha Verma,asha.verma@example.com,Starting in 1 hour: Python Automation Webinar,dry-run,DRY_RUN,
+2026-11-23 12:31:31,R005,C002,Rohan Mehta,rohan.mehta@example.com,Starting in 1 hour: Python Automation Webinar,dry-run,DRY_RUN,
+2026-11-23 12:31:31,R005,C003,Priya Nair,priya.nair@example.com,Starting in 1 hour: Python Automation Webinar,dry-run,DRY_RUN,

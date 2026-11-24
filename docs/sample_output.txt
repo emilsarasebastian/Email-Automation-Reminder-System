@@ -1,0 +1,31 @@
+INFO     | [dry-run] 5 reminder(s) due as of 2026-11-23 12:30
+INFO     | DRY_RUN R001 -> asha.verma@example.com | Reminder: Python Automation Webinar starts soon
+INFO     | DRY_RUN R001 -> rohan.mehta@example.com | Reminder: Python Automation Webinar starts soon
+INFO     | DRY_RUN R001 -> priya.nair@example.com | Reminder: Python Automation Webinar starts soon
+INFO     | DRY_RUN R002 -> vikram.singh@example.com | Payment reminder: Invoice INV-2026-014
+INFO     | DRY_RUN R002 -> neha.kapoor@example.com | Payment reminder: Invoice INV-2026-014
+INFO     | DRY_RUN R002 -> imran.khan@example.com | Payment reminder: Invoice INV-2026-014
+INFO     | DRY_RUN R003 -> meera.iyer@example.com | Meeting alert: Weekly Ops Review
+INFO     | DRY_RUN R003 -> arjun.reddy@example.com | Meeting alert: Weekly Ops Review
+ERROR    | FAILED  R003 -> invalid-email.example.com (invalid email address)
+INFO     | DRY_RUN R004 -> sara.thomas@example.com | Task assigned: Update onboarding checklist
+INFO     | DRY_RUN R004 -> karan.joshi@example.com | Task assigned: Update onboarding checklist
+INFO     | DRY_RUN R005 -> asha.verma@example.com | Starting in 1 hour: Python Automation Webinar
+INFO     | DRY_RUN R005 -> rohan.mehta@example.com | Starting in 1 hour: Python Automation Webinar
+INFO     | DRY_RUN R005 -> priya.nair@example.com | Starting in 1 hour: Python Automation Webinar
+INFO     | Rendered email preview saved: outputs/dry_run_preview.txt
+
+==================================================
+RUN SUMMARY
+==================================================
+Total attempts : 14
+DRY_RUN        : 13
+FAILED         : 1
+--------------------------------------------------
+Reminder R001  : DRY_RUN=3
+Reminder R002  : DRY_RUN=3
+Reminder R003  : DRY_RUN=2, FAILED=1
+Reminder R004  : DRY_RUN=2
+Reminder R005  : DRY_RUN=3
+==================================================
+INFO     | Report saved: outputs/email_report_20261123_123037.csv

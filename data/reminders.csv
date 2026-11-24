@@ -1,0 +1,6 @@
+reminder_id,group,template,subject,send_date,send_time,event_name,event_date,event_time,link,invoice_no,amount,due_date,task_name,task_deadline
+R001,Students,webinar_reminder,Reminder: {event_name} starts soon,2026-11-23,00:01,Python Automation Webinar,2026-11-24,11:00 AM IST,https://example.com/webinar,,,,,
+R002,Sales,payment_reminder,Payment reminder: Invoice {invoice_no},2026-11-23,00:02,,,,,INV-2026-014,"INR 12,500",2026-11-26,,
+R003,Operations,meeting_alert,Meeting alert: {event_name},2026-11-23,00:03,Weekly Ops Review,2026-11-24,10:00 AM IST,https://example.com/ops-meet,,,,,
+R004,HR,task_notification,Task assigned: {task_name},2026-11-24,09:30,,,,,,,,Update onboarding checklist,2026-11-27
+R005,Students,webinar_reminder,Starting in 1 hour: {event_name},2026-11-24,10:00,Python Automation Webinar,2026-11-24,11:00 AM IST,https://example.com/webinar,,,,,

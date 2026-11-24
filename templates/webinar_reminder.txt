@@ -1,0 +1,13 @@
+Hello {name},
+
+This is a friendly reminder about our upcoming session:
+
+  Event : {event_name}
+  Date  : {event_date}
+  Time  : {event_time}
+  Join  : {link}
+
+Please join a few minutes early so we can start on time.
+
+Regards,
+{sender_name}
