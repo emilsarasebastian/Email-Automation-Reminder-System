@@ -68,7 +68,7 @@ Email-Automation-Reminder-System/
 
 ```bash
 # 1. Clone
-git clone https://github.com/<your-username>/Email-Automation-Reminder-System.git
+git clone https://github.com/emilsarasebastian/Email-Automation-Reminder-System.git
 cd Email-Automation-Reminder-System
 
 # 2. Virtual environment
