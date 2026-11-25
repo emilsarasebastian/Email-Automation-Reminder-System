@@ -129,17 +129,21 @@ FAILED         : 1
 Generated files: `logs/email_automation.log`, `outputs/email_report_<timestamp>.csv`, `outputs/dry_run_preview.txt`.
 
 ## Screenshots
+### Dry-run output
+![Dry-run output](images/04_dry_run.png)
 
-| | |
-|---|---|
-| Project folder | `images/01_project_folder.png` |
-| Contacts CSV | `images/02_contacts_csv.png` |
-| Email template | `images/03_template.png` |
-| Dry-run terminal output | `images/04_dry_run.png` |
-| Log file | `images/05_log_file.png` |
-| CSV report | `images/06_report_csv.png` |
+### CSV report
+![CSV report](images/07_report_csv.png)
 
-(Add your own screenshots to `images/` and link them here with `![caption](images/04_dry_run.png)`.)
+### Log file
+![Log file](images/06_log_file.png)
+
+### Personalized email preview
+![Email preview](images/03_email_preview.png)
+
+### Tests passing
+![Tests passed](images/08_tests_passed.png)
+
 
 ## Learning Outcomes
 
